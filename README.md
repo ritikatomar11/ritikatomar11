@@ -4,7 +4,9 @@
 
 ## About me
 🌱 I’m currently learning Web based technologies <br>
-👯 I’m looking to collaborate on Open Source Projects<br>
+🏛️ I'm experienced in building end to end e-commerce app<br>
+☕ Fuelled by chai and curiosity<br>
+🔄 Believer in clean code, meaningful commits, and lifelong learning<br>
 📫 Reach out to me at my Email : ritika.tomar.0984@gmail.com<br>
 
 
